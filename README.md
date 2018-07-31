@@ -14,4 +14,4 @@ example_random_images.m runs an example with MNIST dataset
 
 APDAGD.m is the code of the APDAGD method
 
-Sinkhorn.m is the code of the Sinkhorn's method (the version described in [Altshuler et al., 2017]
+Sinkhorn.m is the code of the Sinkhorn's method (basic version described in [Altshuler et al., 2017])
